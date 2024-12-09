@@ -1,0 +1,6 @@
+in order to play the game
+
+1. open terminal from the directory
+2. write command - make		//MakeFile command
+3. write command - ./2048        //opening the game
+4. have fun!
